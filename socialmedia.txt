@@ -1,0 +1,14 @@
+# Facebook related
+0.0.0.0 https://instagram.com
+0.0.0.0 https://*.facebook.com
+0.0.0.0 https://*.snapchat.com
+
+# Youtube URIs
+0.0.0.0 https://googlevideo.com
+0.0.0.0 https://ytimg.com
+0.0.0.0 https://youtube.com
+0.0.0.0 https://youtube-ui.l.google.com
+0.0.0.0 https://ytimg.l.google.com
+0.0.0.0 https://ytimg.com
+0.0.0.0 https://ytstatic.l.google.com
+0.0.0.0 https://youtubei.googleapis.com
