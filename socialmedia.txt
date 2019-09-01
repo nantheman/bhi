@@ -1,14 +1,14 @@
 # Facebook related
-https://instagram.com
-https://*.facebook.com
-https://*.snapchat.com
+instagram.com
+facebook.com
+snapchat.com
 
 # Youtube URIs
-https://googlevideo.com
-https://ytimg.com
-https://youtube.com
-https://youtube-ui.l.google.com
-https://ytimg.l.google.com
-https://ytimg.com
-https://ytstatic.l.google.com
-https://youtubei.googleapis.com
+googlevideo.com
+ytimg.com
+youtube.com
+youtube-ui.l.google.com
+ytimg.l.google.com
+ytimg.com
+ytstatic.l.google.com
+youtubei.googleapis.com
