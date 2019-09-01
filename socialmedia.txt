@@ -1,8 +1,3 @@
-# Facebook related
-instagram.com
-facebook.com
-snapchat.com
-
 # Youtube URIs
 googlevideo.com
 ytimg.com
