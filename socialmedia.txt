@@ -7,3 +7,10 @@ ytimg.l.google.com
 ytimg.com
 ytstatic.l.google.com
 youtubei.googleapis.com
+
+# Discord
+discord.com
+discordapp.com
+
+# Facebook
+# facebook.com
