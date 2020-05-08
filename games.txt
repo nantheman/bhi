@@ -1,2 +1,25 @@
-127.0.0.1	 krunker.io
-127.0.0.1	 diep.io
+krunker.io
+diep.io
+
+twitch.tv
+www.twitch.tv
+static.twitchcdn.net
+video-edge-e231b9.sjc02.hls.ttvnw.net
+spade.twitch.tv
+pubsub-edge.twitch.tv
+irc-ws.chat.twitch.tv
+cvp.twitch.tv
+gql.twitch.tv
+c.amazon-adsystem.com
+static-cdn.jtvnw.net
+www.gstatic.com
+cdn-gl.imrworldwide.com
+sb.scorecardresearch.com
+api.twitch.tv
+client-event-reporter.twitch.tv
+imasdk.googleapis.com
+usher.ttvnw.net
+countess.twitch.tv
+video-weaver.dfw02.hls.ttvnw.net
+video-edge-c2aad4.dfw02.abs.hls.ttvnw.net
+video-edge-0d7ee3.sjc02.hls.ttvnw.net
