@@ -1,17 +1,17 @@
 # Youtube URIs
-googlevideo.com
-ytimg.com
-youtube.com
-www.youtube.com
-youtube-ui.l.google.com
-ytimg.l.google.com
-ytimg.com
-ytstatic.l.google.com
-youtubei.googleapis.com
+127.0.0.1 googlevideo.com
+127.0.0.1 ytimg.com
+127.0.0.1 youtube.com
+127.0.0.1 www.youtube.com
+127.0.0.1 youtube-ui.l.google.com
+127.0.0.1 ytimg.l.google.com
+127.0.0.1 ytimg.com
+127.0.0.1 ytstatic.l.google.com
+127.0.0.1 youtubei.googleapis.com
 
 # Discord
-discord.com
-discordapp.com
+127.0.0.1 discord.com
+127.0.0.1 discordapp.com
 
 # Facebook
-# facebook.com
+127.0.0.1  facebook.com
