@@ -6,6 +6,7 @@ twitch.tv
 www.twitch.tv
 static.twitchcdn.net
 video-edge-e231b9.sjc02.hls.ttvnw.net
+*.twitch.tv
 spade.twitch.tv
 pubsub-edge.twitch.tv
 irc-ws.chat.twitch.tv
