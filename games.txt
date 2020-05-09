@@ -1,5 +1,6 @@
 krunker.io
 diep.io
+roblox.com
 
 *.ttvnw.*
 twitch.tv
