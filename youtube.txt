@@ -1,0 +1,10 @@
+# Youtube URIs
+googlevideo.com
+ytimg.com
+youtube.com
+www.youtube.com
+youtube-ui.l.google.com
+ytimg.l.google.com
+ytimg.com
+ytstatic.l.google.com
+youtubei.googleapis.com
