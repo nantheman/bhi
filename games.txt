@@ -2,6 +2,10 @@ krunker.io
 diep.io
 roblox.com
 
+# Discord
+discord.com
+discordapp.com
+
 *.ttvnw.*
 twitch.tv
 www.twitch.tv
