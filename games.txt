@@ -6,12 +6,9 @@ roblox.com
 discord.com
 discordapp.com
 
-*.ttvnw.*
 twitch.tv
 www.twitch.tv
 static.twitchcdn.net
-video-edge-e231b9.sjc02.hls.ttvnw.net
-*.twitch.tv
 spade.twitch.tv
 pubsub-edge.twitch.tv
 irc-ws.chat.twitch.tv
@@ -30,3 +27,4 @@ countess.twitch.tv
 video-weaver.dfw02.hls.ttvnw.net
 video-edge-c2aad4.dfw02.abs.hls.ttvnw.net
 video-edge-0d7ee3.sjc02.hls.ttvnw.net
+video-edge-e231b9.sjc02.hls.ttvnw.net
