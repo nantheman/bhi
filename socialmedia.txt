@@ -1,2 +1,6 @@
 # Facebook
 facebook.com
+twitter.com
+twtr.com
+twimg.com
+twitch.com
